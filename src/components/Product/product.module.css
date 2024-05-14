@@ -1,0 +1,15 @@
+.listItem{
+    width: 200px;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    margin: 25px;
+}
+
+.listItem img{
+    height: 200px;
+}
